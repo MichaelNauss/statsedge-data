@@ -1,0 +1,119 @@
+{
+ "built_at": "2026-10-28T20:04:08",
+ "packs": {
+  "swing": "PACK_2026-10-26_FULLBOOK_v3",
+  "day": "PACK_2026-10-21"
+ },
+ "live_from": "2026-09",
+ "basis": "Live months: trades closed in the month, at the card size (contribution_at_card_pct); day trades filled in the session, at the published size. Open positions marked at the latest run, on their own line, not in any month. Backtest months from the packs. Published months are frozen.",
+ "months": {
+  "2026-09": {
+   "month": "2026-09",
+   "swing_backtest": -4.85,
+   "day_backtest": 0.51,
+   "swing_live": -2.61,
+   "swing_closed": 8,
+   "swing_wins": 4,
+   "swing_losses": 4,
+   "swing_best": [
+    "SHOP",
+    3.33
+   ],
+   "swing_worst": [
+    "PPHC",
+    -20.02
+   ],
+   "day_live": 0.45,
+   "day_filled": 160,
+   "day_wins": 84,
+   "day_losses": 76,
+   "day_best": [
+    "VKTX",
+    6.69
+   ],
+   "day_worst": [
+    "NESR",
+    -7.48
+   ],
+   "month_to_date": false
+  },
+  "2026-10": {
+   "month": "2026-10",
+   "swing_backtest": -10.22,
+   "day_backtest": 4.77,
+   "swing_live": -6.66,
+   "swing_closed": 54,
+   "swing_wins": 25,
+   "swing_losses": 29,
+   "swing_best": [
+    "ACIC",
+    13.45
+   ],
+   "swing_worst": [
+    "BBNX",
+    -24.4
+   ],
+   "day_live": 19.98,
+   "day_filled": 177,
+   "day_wins": 108,
+   "day_losses": 69,
+   "day_best": [
+    "DNA",
+    23.77
+   ],
+   "day_worst": [
+    "DNA",
+    -10.78
+   ],
+   "month_to_date": true
+  }
+ },
+ "open_positions": {
+  "as_of": "2026-10-28",
+  "count": 8,
+  "marked_pct": -0.78,
+  "positions": [
+   [
+    "BVS",
+    "Bull-Flag Momentum",
+    -5.19
+   ],
+   [
+    "MOBI",
+    "Bull-Flag Momentum",
+    4.8
+   ],
+   [
+    "META",
+    "Mean Reversion",
+    -2.82
+   ],
+   [
+    "KO",
+    "Surge Pullback",
+    -1.83
+   ],
+   [
+    "CRS",
+    "Flush Gap",
+    1.58
+   ],
+   [
+    "DXCM",
+    "Mean Reversion",
+    -0.96
+   ],
+   [
+    "GLD",
+    "Gold Seasonal",
+    -0.7
+   ],
+   [
+    "ALAB",
+    "Mean Reversion",
+    -7.32
+   ]
+  ]
+ },
+ "alarms": []
+}
